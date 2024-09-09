@@ -1,0 +1,10 @@
+.login{
+    position:fixed;
+    left: 40%;
+    top: 40%;
+    text-align: center;
+    margin: 40px;
+}
+body{
+    border-color: black;
+}
